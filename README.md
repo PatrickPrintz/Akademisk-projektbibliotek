@@ -13,6 +13,8 @@ Skrevet på 8. semester cand.oecon.
 *Katakter: 12*
 
 ### **Speciale: EJENDOMSVURDERINGER - En undersøgelse af et vurderingssystem baseret på neurale netværk**
+*Antal henvisninger: 3*
+
 Studie af træfsikkerheden ved offentlige ejendomsvurderinger baseret på AI, med tredelt målsætning om at;
 1. Sammenligne træfsikkerheden af nye vurderinger og vurderinger foretaget af AI
 2. Introducerer makroøkonomiske faktorer i vurderingen og diskuterer deres relevans i relation til beskatning
